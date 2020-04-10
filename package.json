@@ -1,0 +1,20 @@
+{
+  "description": "Empirical analysis of the BPMN-in-the-Wild dataset",
+  "scripts": {
+    "start": "jupyter notebook model-analysis.ipynb"
+  },
+  "author": {
+    "name": "Jan Ladleif",
+    "url": "https://github.com/jan-ladleif"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jan-ladleif/model-analysis"
+  },
+  "dependencies": {
+    "bpmn-moddle": "6.0.3",
+    "highcharts-export-server": "2.0.24",
+    "fs-extra": "8.1.0"
+  }
+}

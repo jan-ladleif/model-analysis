@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+node_modules
+
+# model files are not contained in the repository
+all_files
+models
